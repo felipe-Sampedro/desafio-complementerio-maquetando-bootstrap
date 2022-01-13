@@ -1,0 +1,46 @@
+.bg-color-alt{
+    background-color: #ff80ab
+}
+
+.bg-color-alt2{
+    background-color: #ffb2dd
+}
+
+
+.start-icon{
+    width: 45px;
+    height: auto;
+}
+
+a,#pie{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 200%;
+}
+
+.size-logo{
+    width:35%;
+    height:auto
+}
+
+
+.resaltar:hover{
+    transform: scale(1.1);
+}
+
+
+
+.bg-pie{
+    background-color: #ea5174;
+}
+
+
+.info-pie p{
+    margin: 0;
+    padding: 0;
+}
+
+.pie-icon{
+    width: 145%;
+}
+
+
